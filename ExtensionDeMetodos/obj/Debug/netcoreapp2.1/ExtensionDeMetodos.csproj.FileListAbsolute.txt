@@ -1,0 +1,11 @@
+C:\VS2017\ProgramacionIntermedia1\ExtensionDeMetodos\ExtensionDeMetodos\bin\Debug\netcoreapp2.1\ExtensionDeMetodos.deps.json
+C:\VS2017\ProgramacionIntermedia1\ExtensionDeMetodos\ExtensionDeMetodos\bin\Debug\netcoreapp2.1\ExtensionDeMetodos.runtimeconfig.json
+C:\VS2017\ProgramacionIntermedia1\ExtensionDeMetodos\ExtensionDeMetodos\bin\Debug\netcoreapp2.1\ExtensionDeMetodos.runtimeconfig.dev.json
+C:\VS2017\ProgramacionIntermedia1\ExtensionDeMetodos\ExtensionDeMetodos\bin\Debug\netcoreapp2.1\ExtensionDeMetodos.dll
+C:\VS2017\ProgramacionIntermedia1\ExtensionDeMetodos\ExtensionDeMetodos\bin\Debug\netcoreapp2.1\ExtensionDeMetodos.pdb
+C:\VS2017\ProgramacionIntermedia1\ExtensionDeMetodos\ExtensionDeMetodos\obj\Debug\netcoreapp2.1\ExtensionDeMetodos.csprojAssemblyReference.cache
+C:\VS2017\ProgramacionIntermedia1\ExtensionDeMetodos\ExtensionDeMetodos\obj\Debug\netcoreapp2.1\ExtensionDeMetodos.csproj.CoreCompileInputs.cache
+C:\VS2017\ProgramacionIntermedia1\ExtensionDeMetodos\ExtensionDeMetodos\obj\Debug\netcoreapp2.1\ExtensionDeMetodos.AssemblyInfoInputs.cache
+C:\VS2017\ProgramacionIntermedia1\ExtensionDeMetodos\ExtensionDeMetodos\obj\Debug\netcoreapp2.1\ExtensionDeMetodos.AssemblyInfo.cs
+C:\VS2017\ProgramacionIntermedia1\ExtensionDeMetodos\ExtensionDeMetodos\obj\Debug\netcoreapp2.1\ExtensionDeMetodos.dll
+C:\VS2017\ProgramacionIntermedia1\ExtensionDeMetodos\ExtensionDeMetodos\obj\Debug\netcoreapp2.1\ExtensionDeMetodos.pdb
